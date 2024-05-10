@@ -1,0 +1,2 @@
+topo readlammpsdata xxx.data full
+animate write psf xxx.psf
